@@ -8,10 +8,10 @@ strategy. 3 distinct modeling approaches will be used and each group will be ask
 focus on one of these approaches (to be assigned by instructor). The following 
 approaches are: 
  
-• Risk-based (equal risk contribution, sensitivity to the market and relevant 
+* Risk-based (equal risk contribution, sensitivity to the market and relevant 
 marco risk factors) 
-• Trend-following (application of moving averages to determine trend) 
-• Regime-based (Markov-state models) 
+* Trend-following (application of moving averages to determine trend) 
+* Regime-based (Markov-state models) 
  
 
 Data: Go to the Ken French’s data library to create monthly time series of different 
